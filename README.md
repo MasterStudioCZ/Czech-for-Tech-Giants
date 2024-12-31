@@ -1,6 +1,6 @@
-# Czech for Tech Giants
+# Čeština pro Tech Giants
 
-A Czech translation for the game Tech Giants.
+Modifikace přidávající český překlad do Tech Giants.
 
 ```
 [https://masterstudiocz.github.io/Czech-for-Tech-Giants/repository.json]
