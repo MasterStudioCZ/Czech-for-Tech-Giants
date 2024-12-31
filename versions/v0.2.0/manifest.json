@@ -3,10 +3,10 @@
 
     "manifestVersion": "1",
     "uuid": "techGiantsCs",
-    "name": "Czech for Tech Giants",
+    "name": "Čeština pro Tech Giants",
     "version": "0.2.0",
     "category": ["Language"],
-    "description": "This mod adds the Czech language to Tech Giants.\nTento mód přidává to Tech Giants český překlad.",
+    "description": " mód přidává to Tech Giants český překlad.",
     "links": [{"type": "homepage", "url": "https://github.com/MasterStudioCZ/Czech-for-Tech-Giants/tree/main"}],
     "authors": [{ "name": "MasterStudioCZ", "contacts": ["https://github.com/MasterStudioCZ"] }],
     "changelog": "",
