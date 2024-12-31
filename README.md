@@ -1,6 +1,7 @@
-# Your Mod Name
+# Czech for Tech Giants
 
-To install this mod copy and paste below link into the mod section of Tech Giants Game. 
+A Czech translation for the game Tech Giants.
+
 ```
-https://username.github.io/repository/repository.json
+[https://masterstudiocz.github.io/Czech-for-Tech-Giants/repository.json]
 ``` 
